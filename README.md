@@ -10,7 +10,7 @@
 <li>Install-Chrome</li> 
 <li>Install-Manage</li> 
 </ul>
-<h2><u>LabTech-PowerShell-Module</u> (LabTech.ps1)</h2>:<br />
+<h2><u>LabTech-PowerShell-Module</u> (LabTech.ps1):</h2><br />
 <ul>
 <li>Install-LTService</li> 
 <li>Uninstall-LTService</li> 
