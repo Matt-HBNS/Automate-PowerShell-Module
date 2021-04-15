@@ -1,6 +1,6 @@
 ConnectWise Automate Modules
 
-<u><b>Automate Module</b></u> (Automate-Module.ps1):
+<u><b>Automate Module</b></u> (Automate-Module.ps1):<br />
 Confirm-Automate 
 Uninstall-Automate
 Install-Automate
@@ -9,7 +9,7 @@ Get-ADComputerNames
 Install-Chrome
 Install-Manage
 
-<u><b>LabTech-PowerShell-Module</b></u> (LabTech.ps1):
+<u><b>LabTech-PowerShell-Module</b></u> (LabTech.ps1):<br />
 Install-LTService
 Uninstall-LTService
 Update-LTService
