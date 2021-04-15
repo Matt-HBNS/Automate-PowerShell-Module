@@ -1,6 +1,6 @@
-ConnectWise Automate Modules
+<h1><u>ConnectWise Automate Modules</u></h1>
 
-<u><b>Automate Module</b></u> (Automate-Module.ps1):<br />
+<h2><u>Automate Module</u> (Automate-Module.ps1):</h2><br />
 <ul>
 <li>Confirm-Automate</li> 
 <li>Uninstall-Automate</li> 
@@ -10,7 +10,7 @@ ConnectWise Automate Modules
 <li>Install-Chrome</li> 
 <li>Install-Manage</li> 
 </ul>
-<u><b>LabTech-PowerShell-Module</b></u> (LabTech.ps1):<br />
+<h2><u>LabTech-PowerShell-Module</u> (LabTech.ps1)</h2>:<br />
 <ul>
 <li>Install-LTService</li> 
 <li>Uninstall-LTService</li> 
